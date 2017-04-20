@@ -9,7 +9,7 @@ from sklearn.preprocessing import LabelEncoder
 import pandas as pd
 
 ## Datasettet
-# Laster dataset fra scikit
+# Laster dataset
 usedcars = pd.read_csv("data/usedcars.csv")
 
 # Skriv ut klasse distribusjon
